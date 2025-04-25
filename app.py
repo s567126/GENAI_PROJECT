@@ -1,7 +1,7 @@
 import streamlit as st
 from main import answerquery
 
-st.title("NWMSU QA Chatbot")
+st.title("SMART SHOPPING CHAT BOT")
 
 # Initialize chat history
 if "messages" not in st.session_state:
